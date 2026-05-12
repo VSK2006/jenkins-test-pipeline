@@ -1,0 +1,2 @@
+def patch():
+    print('Secured!')
